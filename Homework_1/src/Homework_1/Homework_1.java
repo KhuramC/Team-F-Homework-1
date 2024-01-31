@@ -21,6 +21,9 @@ public class Homework_1 {
 		Homework_1 Khuram = new Homework_1("Khuram", 112579665);
 		System.out.println(Khuram);
 		
+		Homework_1 Hipolito = new Homework_1("Hipolito", 80554014);
+		System.out.println(Hipolito);
+		
 
 	}
 
