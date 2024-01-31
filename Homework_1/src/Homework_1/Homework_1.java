@@ -23,14 +23,10 @@ public class Homework_1 {
 		
 		Homework_1 Hipolito = new Homework_1("Hipolito", 80554014);
 		System.out.println(Hipolito);
-<<<<<<< HEAD
-			
-=======
-		
 		
 		Homework_1 Alon = new Homework_1("Alon", 112579684);
 		System.out.println(Alon);
->>>>>>> 78d978a7dbe5f4c43d309f2df0511bed85798fb2
+
 
 	}
 
