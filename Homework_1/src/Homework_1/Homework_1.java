@@ -23,7 +23,7 @@ public class Homework_1 {
 		
 		Homework_1 Hipolito = new Homework_1("Hipolito", 80554014);
 		System.out.println(Hipolito);
-		
+			
 
 	}
 
